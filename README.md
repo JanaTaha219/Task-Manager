@@ -79,22 +79,3 @@ Task 1,Description 1,2025-01-14 14:00:00,High,Pending,Work
 Task 2,Description 2,2025-01-15 16:30:00,Medium,Completed,Personal
 ```
 
-## Contributing
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature-name`.
-3. Commit your changes: `git commit -m 'Add some feature'`.
-4. Push to the branch: `git push origin feature-name`.
-5. Open a pull request.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for more information.
-
-## Contact
-For any questions or suggestions, feel free to contact:
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **GitHub**: [your-username](https://github.com/your-username)
-
----
-
-Enjoy using the Task Manager Application!
-
