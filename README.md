@@ -12,10 +12,6 @@ This is a simple **Task Manager** application written in C#. It allows users to 
 - **Completion Rate**: View the percentage of completed tasks.
 - **Persistence**: Save tasks to a file and load them automatically on restart.
 
-## Requirements
-- .NET 6.0 or later
-- Windows, macOS, or Linux
-
 ## Setup and Usage
 
 ### Clone the Repository
